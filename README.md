@@ -1,4 +1,4 @@
-### Hi there 👋
+- 📫 How to reach me: ```mohammadi.a98#0469``` on Discord
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-flame&theme=vue-dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
