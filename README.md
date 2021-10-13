@@ -1,6 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-alireza17010%40gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:alireza17010@gmail.com)](mailto:alireza17010@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Alireza%20Mohammadi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alireza-mohammadi-0711a3148/)](https://www.linkedin.com/in/alireza-mohammadi-0711a3148/) 
-[![Telegram Badge](https://img.shields.io/badge/-mohammadi.a98%230469-orange?style=flat&logo=discord&logoColor=white)]()
+[![Telegram Badge](https://img.shields.io/badge/-mohammadi.a98%230469-green?style=flat&logo=discord&logoColor=white)]()
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-flame&theme=vue-dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
