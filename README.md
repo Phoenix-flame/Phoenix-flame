@@ -3,9 +3,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-mohammadi.a98%230469-green?style=flat&logo=discord&logoColor=white)]()
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-flame&theme=vue-dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-flame&theme=vue-dark&langs_count=5&card_width=496)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
