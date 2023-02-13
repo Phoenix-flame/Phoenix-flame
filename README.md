@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Phoenix-flame)](https://git.io/streak-stats)
+
 [![Gmail Badge](https://img.shields.io/badge/-alireza17010%40gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:alireza17010@gmail.com)](mailto:alireza17010@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Alireza%20Mohammadi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alireza-mohammadi-0711a3148/)](https://www.linkedin.com/in/alireza-mohammadi-0711a3148/) 
 [![Telegram Badge](https://img.shields.io/badge/-mohammadi.a98%230469-green?style=flat&logo=discord&logoColor=white)]()
