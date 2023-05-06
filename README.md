@@ -1,5 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/28976110/236609873-63742c9e-dbf7-4179-83df-33e051803aa4.png"  width="490">
+<img src="https://user-images.githubusercontent.com/28976110/236609873-63742c9e-dbf7-4179-83df-33e051803aa4.png"  width="495">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Phoenix-flame&theme=dracula)](https://git.io/streak-stats)
 
